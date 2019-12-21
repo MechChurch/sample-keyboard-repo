@@ -5,9 +5,10 @@ _Fork this repository or copy raw code of this readme to your repository.
 Please, keep this file structure such as sections order, image heights, table columns.
 Things written in italic are comments, remove them from your readme_
 
+# \<keyboard name>
+
 _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-keyboard-name>__](link.to.original.keyboard) keyboard
 
-# \<keyboard name>
 \<optional keyboard description>
 
 <img src="https://i.imgur.com/wWjpgZU.png" data-canonical-src="Photo/Render/Layout" height="300"/>
