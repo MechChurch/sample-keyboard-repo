@@ -1,12 +1,15 @@
 # _sample-keyboard-repo_
-_This is MechChurch sample keyboard repository._
+_This is MechChurch sample keyboard descripiton._
 
-_Use this readme for your keyboard PCB sources if they're publicly available.
-Please keep the structure, such as section order, image height, table columns.
-Things written in italic are comments, remove them from your readme._
+* _Use this readme for your keyboard PCB sources if they're publicly available_
+* _If the sources are private, then just make a repo with only a readme_
+* _If you want to have your PCB in MechChurch keyboards index, please add MechChurch logo somewhere on the PCB_
+* _Please keep this readme structure, such as section order, image height, table columns_
+* _Things written in italic are comments, remove them from your readme. Including this introduction_
 
 _Examples:_
 * _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
+
 
 
 # \<keyboard name>
