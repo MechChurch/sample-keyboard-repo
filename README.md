@@ -10,9 +10,9 @@ _This is MechChurch sample keyboard descripiton._
 _Examples:_
 * _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
 
+# \<keyboard name> 
 
-
-# \<keyboard name>
+[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/mechchurch)
 
 _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-keyboard-name>__](link.to.original.keyboard) keyboard
 
