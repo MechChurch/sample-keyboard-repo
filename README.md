@@ -5,6 +5,10 @@ _Use this readme for your keyboard pcb sources if they're public available.
 Please keep the structure, such as section order, image height, table columns.
 Things written in italic are comments, remove them from your readme._
 
+_Examples:_
+* _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
+
+
 # \<keyboard name>
 
 _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-keyboard-name>__](link.to.original.keyboard) keyboard
