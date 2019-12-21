@@ -20,9 +20,10 @@ _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-ke
 * _(If there is an option to assemble by yourself)_ __Building guide:__  [\<link.to.guide>](place-guide-in-separate-file-in-the-same-repo)
 * _(If there is an option to buy parts by yourself)_ __BOM:__
 
-| Name           | Value         | Package           | Count        | Required? | Comment                           |
+| Name           | Value         | Package           | Count        | Optional  | Comment                           |
 | :------------- | ------------: | :---------------- | -----------: | :-------- | :-------------------------------- |
-| \<part name>   | \<value>      | \<package type>   | \<count>     |  \<yes/no>| \<[link.to.source]()/function/etc>|
-| Pro Micro      | 5V 16MHz      |     17.78x33.02mm | 1            |       yes | [sparkfun.com](https://www.sparkfun.com/products/12640) |
-| Switch         |               | Cherry MX         | 40           |       yes |                                   |
+| \<part name>   | \<value>      | \<package type>   | \<count>     |  \<yes/  >| \<[link.to.source]()/function/etc>|
+| Pro Micro      | 5V 16MHz      |     17.78x33.02mm | 1            |           | [sparkfun.com](https://www.sparkfun.com/products/12640) |
+| Switch         |               | Cherry MX         | 40           |           |                                   |
+| Tact button    |               | DIP 3X6X4,3mm     | 1            |     yes   | Need to reset pcb without firmware, you can do this with tweezers |
 |            ... |           ... |               ... |         ...  |       ... |                               ... |
