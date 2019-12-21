@@ -1,7 +1,7 @@
 # _sample-keyboard-repo_
 _This is MechChurch sample keyboard repository._
 
-_Use this readme for your keyboard pcb sources if they're public available.
+_Use this readme for your keyboard PCB sources if they're publicly available.
 Please keep the structure, such as section order, image height, table columns.
 Things written in italic are comments, remove them from your readme._
 
