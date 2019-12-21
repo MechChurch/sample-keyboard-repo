@@ -22,7 +22,7 @@ _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-ke
 
 <img src="https://i.imgur.com/wWjpgZU.png" data-canonical-src="Photo/Render/Layout" height="300"/>
 
-
+* __Author:__ [/<contact links>]()
 * __Layout:__ [\<link.to.layout>](http://www.keyboard-layout-editor.com/#/gists/a40840a99de144a561b8c5759ac75534)
 * __Hardware Availability:__ \<[link.to.get]()/contact info/open source/not available>
 * __Link to firmware:__ [\<link.to.firmware>](https://github.com/qmk/qmk_firmware/tree/master/keyboards/2_milk)
