@@ -12,7 +12,7 @@ _Examples:_
 * _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
 ---
 
-[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/mechchurch)
+[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/s/mechchurch)
 
 # \<keyboard name> 
 
