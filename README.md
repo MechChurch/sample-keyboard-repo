@@ -8,6 +8,7 @@ _This is MechChurch sample keyboard descripiton._
 * _Things written in italic are comments, remove them from your readme. Including this introduction_
 
 _Examples:_
+* _[Jian](https://github.com/KGOH/Jian-Info/blob/master/README.md)
 * _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
 ---
 
