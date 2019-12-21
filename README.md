@@ -1,9 +1,9 @@
 # _sample-keyboard-repo_
 _This is MechChurch sample keyboard repository._
 
-_Fork this repository or copy raw code of this readme to your repository. 
-Please, keep this file structure such as sections order, image heights, table columns.
-Things written in italic are comments, remove them from your readme_
+_Use this readme for your keyboard pcb sources if they're public available.
+Please keep the structure, such as section order, image height, table columns.
+Things written in italic are comments, remove them from your readme._
 
 # \<keyboard name>
 
