@@ -1,2 +1,27 @@
-# sample-keyboard-repo
-This is MechChurch's member sample keyboard repository 
+# _sample-keyboard-repo_
+_This is MechChurch sample keyboard repository._
+
+_Fork this repository or copy raw code of this readme to your repository. 
+Please, keep this file structure such as sections order, image heights, table columns.
+Things written in italic are comments, remove them from your readme_
+
+_(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-keyboard-name>__](link.to.original.keyboard) keyboard
+
+# \<keyboard name>
+\<optional keyboard description>
+
+<img src="https://i.imgur.com/wWjpgZU.png" data-canonical-src="Photo/Render/Layout" height="300"/>
+
+
+* __Layout:__ [\<link.to.layout>](http://www.keyboard-layout-editor.com/#/gists/a40840a99de144a561b8c5759ac75534)
+* __Hardware Availability:__ \<[link.to.get]()/contact info/open source/not available>
+* __Link to firmware:__ [\<link.to.firmware>](https://github.com/qmk/qmk_firmware/tree/master/keyboards/2_milk)
+* _(If there is an option to assemble by yourself)_ __Building guide:__  [\<link.to.guide>](place-guide-in-separate-file-in-the-same-repo)
+* _(If there is an option to buy parts by yourself)_ __BOM:__
+
+| Name           | Value         | Package           | Count        | Required? | Comment                           |
+| :------------- | ------------: | :---------------- | -----------: | :-------- | :-------------------------------- |
+| \<part name>   | \<value>      | \<package type>   | \<count>     |  \<yes/no>| \<[link.to.source]()/function/etc>|
+| Pro Micro      | 5V 16MHz      |     17.78x33.02mm | 1            |       yes | [sparkfun.com](https://www.sparkfun.com/products/12640) |
+| Switch         |               | Cherry MX         | 40           |       yes |                                   |
+|            ... |           ... |               ... |         ...  |       ... |                               ... |
