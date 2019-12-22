@@ -12,8 +12,6 @@ _Examples:_
 * _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
 ---
 
-[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/s/mechchurch)
-
 # \<keyboard name> 
 
 _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-keyboard-name>__](link.to.original.keyboard) keyboard
@@ -36,3 +34,5 @@ _(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-ke
 | Switch         |               | Cherry MX         | 40           |           |                                   |
 | Tact button    |               | DIP 3X6X4,3mm     | 1            |     yes   | Need to reset pcb without firmware, you can do this with tweezers |
 |            ... |           ... |               ... |         ...  |       ... |                               ... |
+
+[![MechChurch](https://i.imgur.com/QHzKmkz.png)](https://t.me/s/mechchurch) Supported by [MechChurch](https://t.me/s/mechchurch) community
