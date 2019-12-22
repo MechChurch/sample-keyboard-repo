@@ -12,13 +12,15 @@ _Examples:_
 * _[jiran-keyboard](https://github.com/Ladniy/jiran-keyboard/blob/master/README.md)_
 ---
 
-# \<keyboard name> 
+# \<keyboard name>
 
-_(If this is a fork of another keyboard)_ This is a fork of the [__\<Original-keyboard-name>__](link.to.original.keyboard) keyboard
-
-\<optional keyboard description>
+\<keyboard summary>
 
 <img src="https://i.imgur.com/wWjpgZU.png" data-canonical-src="Photo/Render/Layout" height="300"/>
+
+\<keyboard full description>
+
+_(If this keyboard based on another keyboard)_ Based on the [__\<Original-keyboard-name>__](link.to.original.keyboard)
 
 * __Author:__ [/<contact links>]()
 * __Layout:__ [\<link.to.layout>](http://www.keyboard-layout-editor.com/#/gists/a40840a99de144a561b8c5759ac75534)
