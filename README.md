@@ -25,7 +25,7 @@ _(If this keyboard based on another keyboard)_ Based on the [__\<Original-keyboa
 * __Author:__ [/<contact links>]()
 * __Layout:__ [\<link.to.layout>](http://www.keyboard-layout-editor.com/#/gists/a40840a99de144a561b8c5759ac75534)
 * __Hardware Availability:__ \<[link.to.get]()/contact info/open source/not available>
-* __Link to firmware:__ [\<link.to.firmware>](https://github.com/qmk/qmk_firmware/tree/master/keyboards/2_milk)
+* __Firmware:__ [\<link.to.firmware>](https://github.com/qmk/qmk_firmware/tree/master/keyboards/2_milk)
 * _(If there is an option to assemble by yourself)_ __Building guide:__  [\<link.to.guide>](place-guide-in-separate-file-in-the-same-repo)
 * _(If there is an option to buy parts by yourself)_ __BOM:__
 
